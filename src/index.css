@@ -8,6 +8,10 @@
   padding: 0;
   margin: 0;
 }
+::selection {
+  background-color: #e9ab02; /* Color de fondo de la selección */
+  color: #000000;
+}
 :root {
   font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
   line-height: 1.5;
