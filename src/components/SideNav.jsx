@@ -12,7 +12,7 @@ import Moon from "../assets/icon/darkmode.png";
 const SideNav = () => {
 
   return (
-    <div className=" w-28 h-dvh flex items-center justify-center">
+    <div className=" animate-fadeIn w-28 h-dvh flex items-center justify-center">
       <div className="bg-customBlack w-24 rounded-xl h-full flex items-center flex-col justify-around">
       <section>
           <img src={Cris} alt="" />
